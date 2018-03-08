@@ -1,0 +1,11 @@
+__pycache__/*
+.png
+.jpg
+.jpeg
+.ipynb_checkpoints/*
+.DS_Store
+.pth
+.pt
+.pkl
+.wav
+.npy
